@@ -1,0 +1,3 @@
+name: k6-api-k8s
+runtime: dotnet
+description: stand up resources in kubernetes for k6-api

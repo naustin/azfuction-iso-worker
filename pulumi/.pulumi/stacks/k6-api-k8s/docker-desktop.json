@@ -1,0 +1,6 @@
+{
+    "version": 3,
+    "checkpoint": {
+        "stack": "organization/k6-api-k8s/docker-desktop"
+    }
+}
